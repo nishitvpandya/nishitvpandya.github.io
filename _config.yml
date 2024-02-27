@@ -34,7 +34,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dirt"
 
 
 
@@ -49,8 +49,8 @@ repository               : "nishitvpandya/nishitvpandya.github.io"
 
 author:
   name             : "Nishit V Pandya"
-  avatar           : "/assets/images/PXL_20231230_012134219.jpg"
-  bio              : 
+  avatar           : "assets/images/avatar_pic.jpeg"
+  bio              : "Rookie PhD Student"
   location         : 
   email            : 
   links:
@@ -73,9 +73,10 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
 
+
 defaults:
   - scope:
-      path: ""
+      path: 
       type: pages
 
     values:
