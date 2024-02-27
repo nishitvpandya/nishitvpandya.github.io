@@ -34,7 +34,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "air"
 
 
 
