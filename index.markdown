@@ -8,7 +8,7 @@ I am a second year PhD student in [Computer Science and Engineering at UC San Di
 
 I got my first experience doing security research working with [Prof. Vinod Ganapathy](https://www.csa.iisc.ac.in/~vg/) where we built a system to enforce downstream control for distributed applications running on ROS2.
 
-I got my  BS and MS in mathematics from the [Indian Institute of Science](https://www.iisc.ac.in) in Bangalore - working mostly on topology and geometry.<br> I also had a brief stint in industry at [Datapoem](https://www.datapoem.com/) building AI to address the pain points of the marketing industry. 
+I received my  BS and MS in mathematics from the [Indian Institute of Science](https://www.iisc.ac.in) in Bangalore - working mostly on topology and geometry.<br> I also had a brief stint in industry at [Datapoem](https://www.datapoem.com/) building AI to address the pain points of the marketing industry. 
 
 ## Publications and Preprints
 * [**Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API**](https://arxiv.org/abs/2501.09798)<br>
