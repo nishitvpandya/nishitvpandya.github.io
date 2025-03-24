@@ -11,9 +11,9 @@ I got my first experience doing security research working with [Prof. Vinod Gana
 I received my  BS and MS in mathematics from the [Indian Institute of Science](https://www.iisc.ac.in) in Bangalore - working mostly on topology and geometry.<br> I also had a brief stint in industry at [Datapoem](https://www.datapoem.com/) building AI to address the pain points of the marketing industry. 
 
 ## Publications and Preprints
-* [**Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API**](https://arxiv.org/abs/2501.09798)<br>
+* [**Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface**]()<br>
 Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes.<br>
-_preprint_
+_IEEE Symposium on Security and Privacy (S&P) 2025_
 
 * [**Decentralized Information Flow Control for ROS2**](https://www.ndss-symposium.org/wp-content/uploads/2024-101-paper.pdf)<br>
 Nishit V. Pandya, Himanshu Kumar, Gokulnath M. Pillai, Vinod Ganapathy.<br>
