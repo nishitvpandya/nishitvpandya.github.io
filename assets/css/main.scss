@@ -7,17 +7,25 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Increase avatar size while maintaining layout
 .author__avatar {
-  display: inline-block;
-  width: auto;
-  height: auto;
-  
   img {
-    max-width: 250px !important; 
-    width: 250px !important;
+    max-width: 200px !important; 
+    width: 200px !important;
     height: auto !important;
-    border-radius: 50%;
-    padding: 0;
-    border: 0;
+  }
+}
+
+// Ensure the sidebar width accommodates the larger image
+.sidebar {
+  &.sticky {
+    width: 250px !important;  // Adjust if needed
+  }
+}
+
+// Make sure content area adjusts accordingly
+@media (min-width: 64em) {
+  .wide {
+    padding-right: 250px !important; // Match the width above
   }
 }
