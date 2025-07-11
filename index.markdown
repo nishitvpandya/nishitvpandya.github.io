@@ -11,7 +11,12 @@ I got my first experience doing security research working with [Prof. Vinod Gana
 I received my  BS and MS in mathematics from the [Indian Institute of Science](https://www.iisc.ac.in) in Bangalore - working mostly on topology and geometry.<br> I also had a brief stint in industry at [Datapoem](https://www.datapoem.com/) building AI to address the pain points of the marketing industry. 
 
 ## Publications and Preprints
-* [**Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface**]()<br>
+
+* [**_May I have your attention?_ Breaking Fine-Tuning based Prompt Injection Defenses using Architecture-Aware Attacks**](https://arxiv.org/pdf/2507.07417)<br>
+Nishit V. Pandya, Andrey Labunets, Sicun Gao, Earlence Fernandes.<br>
+_preprint_
+
+* [**Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-based Prompt Injection Attacks via the Fine-Tuning Interface**](https://arxiv.org/pdf/2501.09798)<br>
 Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes.<br>
 _IEEE Symposium on Security and Privacy (S&P) 2025_
 
