@@ -30,16 +30,20 @@ Happy birthday ****** Singh!  <br>
 </i>
 </details>
 
+<br>
+
 <details>
 <summary> Happy Birthday 2 </summary>
 <i>
 Today is birthday of ***** Chaudhary  <br>
-*Hum Bhagwan se prarthana karte Hain ki uski jaldi lag jaaye Zindagi ki lottery*  <br>
+Hum Bhagwan se prarthana karte Hain ki uski jaldi lag jaaye Zindagi ki lottery  <br>
 We are fortunate ki hum Hain a part of his coterie  <br>
 Hamari yu hi bane camaraderie  <br>
 Happy Birthday ***** Chaudhary  <br>
 </i>
 </details>
+
+<br>
 
 <details>
 <summary> Happy Birthday 3 </summary>
