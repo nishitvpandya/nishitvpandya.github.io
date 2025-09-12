@@ -16,16 +16,16 @@ P.S. Look out for the Cryptic Crossword style questions at the end.
 
 ### *Poetry*
 
-I am a big proponent of the [Ramdas](https://www.youtube.com/watch?v=Ylg2Rtg3cgw) [Athawale](https://youtu.be/Pd_kTUNPxZc) [School](https://youtu.be/0ICD27qXkuI) [of](https://youtu.be/gW9tuyz_X0s?t=23) [Poetry](https://youtu.be/gRV8hLIfIi0). Inspired by these, here are a few poems I wrote - 
+I am a big proponent of the [Ramdas](https://www.youtube.com/watch?v=Ylg2Rtg3cgw) [Athawale](https://youtu.be/Pd_kTUNPxZc) [School](https://youtu.be/0ICD27qXkuI) [of](https://youtu.be/gW9tuyz_X0s?t=23) [Poetry](https://youtu.be/gRV8hLIfIi0). As a homage to these, here are a few poems I wrote - 
 
 <details>
 <summary> Happy Birthday 1 </summary>
-Happy Birthday ****** Singh.  <br>
-Tum Khushi se Karo dance and sing.  <br>
-Is birthday tum ko mile apni Pasand Ka Sara bling  <br>
-Tumhara DOTA2 me bana rahe forever low ping  <br>
-Aur good wishes se bajta rahe phone tring-tring. <br> 
-Happy birthday ****** Singh!  <br>
+_Happy Birthday ****** Singh._  <br>
+_Tum Khushi se Karo dance and sing._  <br>
+_Is birthday tum ko mile apni Pasand Ka Sara bling_  <br>
+_Tumhara DOTA2 me bana rahe forever low ping_  <br>
+_Aur good wishes se bajta rahe phone tring-tring._ <br> 
+_Happy birthday ****** Singh!_  <br>
 </details>
 
 <details>
