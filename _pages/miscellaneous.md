@@ -30,6 +30,7 @@ Aur good wishes se bajta rahe phone tring-tring.
 Happy birthday ****** Singh!  
 </details>
 
+<br>
 
 <details>
 <summary> Happy Birthday 2 </summary>
@@ -40,6 +41,8 @@ We are fortunate ki hum Hain a part of his coterie
 Hamari yu hi bane camaraderie  
 Happy Birthday ***** Chaudhary
 </details>
+
+<br>
 
 <details>
 <summary> Happy Birthday 3 </summary>
