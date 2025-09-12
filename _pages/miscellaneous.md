@@ -20,27 +20,33 @@ I am a big proponent of the [Ramdas](https://www.youtube.com/watch?v=Ylg2Rtg3cgw
 
 <details>
 <summary> Happy Birthday 1 </summary>
-_Happy Birthday ****** Singh._  <br>
-_Tum Khushi se Karo dance and sing._  <br>
-_Is birthday tum ko mile apni Pasand Ka Sara bling_  <br>
-_Tumhara DOTA2 me bana rahe forever low ping_  <br>
-_Aur good wishes se bajta rahe phone tring-tring._ <br> 
-_Happy birthday ****** Singh!_  <br>
+<i>
+Happy Birthday ****** Singh.  <br>
+Tum Khushi se Karo dance and sing.  <br>
+Is birthday tum ko mile apni Pasand Ka Sara bling  <br>
+Tumhara DOTA2 me bana rahe forever low ping  <br>
+Aur good wishes se bajta rahe phone tring-tring. <br> 
+Happy birthday ****** Singh!  <br>
+</i>
 </details>
 
 <details>
 <summary> Happy Birthday 2 </summary>
-*Today is birthday of ***** Chaudhary*  <br>
+<i>
+Today is birthday of ***** Chaudhary  <br>
 *Hum Bhagwan se prarthana karte Hain ki uski jaldi lag jaaye Zindagi ki lottery*  <br>
 We are fortunate ki hum Hain a part of his coterie  <br>
 Hamari yu hi bane camaraderie  <br>
 Happy Birthday ***** Chaudhary  <br>
+</i>
 </details>
 
 <details>
 <summary> Happy Birthday 3 </summary>
+<i>
 Happy Birthday ***** Behen.  <br>
 Tum Zindagi me acche acche kapde banao aur lo pehen  <br>
 Aise hi bane raho ten on ten  <br>
 Happy birthday ***** Behen.  <br>
+</i>
 </details>
