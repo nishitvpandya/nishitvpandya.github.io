@@ -30,8 +30,6 @@ Happy birthday ****** Singh!  <br>
 </i>
 </details>
 
-<br>
-
 <details>
 <summary> Happy Birthday 2 </summary>
 <i>
@@ -43,8 +41,6 @@ Happy Birthday ***** Chaudhary  <br>
 </i>
 </details>
 
-<br>
-
 <details>
 <summary> Happy Birthday 3 </summary>
 <i>
@@ -54,3 +50,11 @@ Aise hi bane raho ten on ten  <br>
 Happy birthday ***** Behen.  <br>
 </i>
 </details>
+
+### *Links* (to articles, essays, blogs etc. - mostly for my own reference)
+
+1. [Paddy's Gita](https://web.iucaa.in/~paddy/answer/gita.pdf) - A very nice essay by the late T. Padmanabhan on the Bhagavad Gita. Written very much for someone with "modern sensibilities". Is also nicely formatted in LaTeX. :) :)  
+
+2. [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) - IMO, going from computers as "calculating machines" to computers as "knowledge organization machines" is the really visionary jump made by this essay. A true memex however still seems to be elusive.
+
+3. Almost everything by [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner_bibliography)
