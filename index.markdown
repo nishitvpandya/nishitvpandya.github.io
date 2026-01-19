@@ -4,7 +4,7 @@
 
 layout: single
 ---
-I am a second year PhD student in [Computer Science and Engineering at UC San Diego](https://cse.ucsd.edu), where I am fortunate to be advised by [Prof. Earlence Fernandes](https://www.earlence.com).<br> I work in AI security. Specifically, I am interested in approaches to create efficient attacks on LLMs and building principled defences for LLM-integrated systems.<br>
+I am a third year PhD student in [Computer Science and Engineering at UC San Diego](https://cse.ucsd.edu), where I am fortunate to be advised by [Prof. Earlence Fernandes](https://www.earlence.com).<br> I work in AI security. Specifically, I am interested in approaches to create efficient attacks on LLMs and building principled defences for LLM-integrated systems.<br>
 
 I got my first experience doing security research working with [Prof. Vinod Ganapathy](https://www.csa.iisc.ac.in/~vg/) where we built a system to enforce downstream control for distributed applications running on ROS2.
 
